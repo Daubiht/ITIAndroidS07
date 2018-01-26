@@ -1,0 +1,6 @@
+{
+"Rathalos": {"img":"https://image.noelshack.com/fichiers/2018/04/5/1516960827-rathalos.png", "Element": "Fire", "Size Max": " 2248.6", "Attack": "Fire bolt"},
+"Zinogre": {"img":"https://image.noelshack.com/fichiers/2018/04/5/1516960827-zinogre.png", "Element": "Foudre", "Size Max": "2063.16", "Attack": "Charge up"},
+"Yian Kut-Ku": {"img":"https://image.noelshack.com/fichiers/2018/04/5/1516960827-yian.png", "Element": "Fire", "Size Max": "1204.9", "Attack": "Fire bolt"},
+"Tigrex": {"img":"https://image.noelshack.com/fichiers/2018/04/5/1516960827-tigrex.png", "Element": "N/A", "Size Max": "2325.3", "Attack": "Roaring"}
+}

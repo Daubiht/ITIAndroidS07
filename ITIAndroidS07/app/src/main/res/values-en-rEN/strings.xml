@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_text">Click</string>
+    <string name="hello_world">Helle</string>
+    <string name="action_settings">Action settings</string>
+    <string name="accueil">Home</string>
+    <string name="noSett">no settings lol</string>
+</resources>

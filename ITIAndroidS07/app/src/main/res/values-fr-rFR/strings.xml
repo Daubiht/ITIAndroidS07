@@ -3,4 +3,6 @@
     <string name="button_text">Clique</string>
     <string name="hello_world">Salut</string>
     <string name="action_settings">Action réglages</string>
+    <string name="accueil">Accueil</string>
+    <string name="noSett">Y a pas de settings lol</string>
 </resources>

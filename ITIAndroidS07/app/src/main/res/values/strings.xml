@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">ITIAndroidS07</string>
+    <string name="app_name">MH ugly bestiary</string>
     <string name="button_text">Click</string>
+    <string name="accueil">Accueil</string>
 </resources>
